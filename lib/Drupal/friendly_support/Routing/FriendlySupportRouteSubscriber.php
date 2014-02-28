@@ -1,7 +1,9 @@
 <?php
 /**
- * Makes it impossible for clients to make a complain.
+ * @file
+ * Contains \Drupal\friendly_support\Routing\FriendlySupportRouteSubscriber.
  */
+
 namespace Drupal\friendly_support\Routing;
 
 use Drupal\Core\Routing\RouteSubscriberBase;
