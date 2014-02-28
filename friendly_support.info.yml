@@ -1,0 +1,8 @@
+name: Friendly Support
+description: 'Makes it impossible to send a support request unless you know the credentials.'
+package: Bad Judgment
+type: module
+version: 1.0
+core: 8.x
+dependencies:
+  - basic_auth

@@ -1,0 +1,5 @@
+services:
+  friendly_support.route_subscriber:
+    class: Drupal\friendly_support\Routing\FriendlySupportRouteSubscriber
+    tags:
+      - { name: event_subscriber }
